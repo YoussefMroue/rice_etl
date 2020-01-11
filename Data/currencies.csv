@@ -1,59 +1,59 @@
-,0
-0,AED UAE Dirham
-1,ARS Argentine Peso
-2,AUD Australian Dollar
-3,AZN Azerbaijani New Manat
-4,BGN Bulgarian Lev
-5,BHD Bahraini Dinar
-6,BND Brunei Dollar
-7,BRL Brazilian Real
-8,CAD Canadian Dollar
-9,CHF Swiss Franc
-10,CLP Chilean Peso
-11,CNH Chinese Renminbi Off-Shore
-12,CNY Chinese Yuan
-13,CZK Czech Koruna
-14,DKK Danish Kroner
-15,EGP Egyptian Pound
-16,EUR Euro
-17,FJD Fiji Dollar
-18,GBP British Pound
-19,HKD Hong Kong Dollar
-20,HUF Hungarian Forint
-21,IDR Indonesian Rupiah
-22,ILS Israeli New Shekel
-23,INR Indian Rupee
-24,JPY Japanese Yen
-25,KRW Korean Won
-26,KWD Kuwaiti Dinar
-27,LKR Sri Lanka Rupee
-28,MAD Moroccan Dirham
-29,MGA Malagasy Ariary
-30,MXN Mexican Peso
-31,MYR Malaysian Ringgit
-32,NOK Norwegian Kroner
-33,NZD New Zealand Dollar
-34,OMR Omani Rial
-35,PEN Peruvian Nuevo Sol
-36,PGK Papua New Guinea Kina
-37,PHP Philippine Peso
-38,PKR Pakistani Rupee
-39,PLN Polish Zloty
-40,RUB Russian Rouble
-41,SAR Saudi Arabian Riyal
-42,SBD Solomon Islands Dollar
-43,SCR Seychelles Rupee
-44,SEK Swedish Krona
-45,SGD Singapore Dollar
-46,THB Thai Baht
-47,TOP Tonga Pa`anga
-48,TRY Turkish Lira
-49,TWD New Taiwan Dollar
-50,TZS Tanzanian Shilling
-51,USD US Dollar
-52,VND Vietnamese Dong
-53,VUV Vanuatu Vatu
-54,WST Samoa Tala
-55,XOF CFA Franc (BCEAO)
-56,XPF Pacific Franc
-57,ZAR South African Rand
+,Currency,Country,Country_Code
+0,AED UAE Dirham,United Arab Emirates,ARE
+1,ARS Argentine Peso,Argentina,ARG
+2,AUD Australian Dollar,Australia,AUS
+3,AZN Azerbaijani New Manat,Azerbaijan,AZE
+4,BGN Bulgarian Lev,Bulgaria,BGR
+5,BHD Bahraini Dinar,Bahrain,BHR
+6,BND Brunei Dollar,Brunei Darussalam,BRN
+7,BRL Brazilian Real,Brazil,BRA
+8,CAD Canadian Dollar,Canada,CAN
+9,CHF Swiss Franc,Switzerland,CHE
+10,CLP Chilean Peso,Chile,CHL
+11,CNH Chinese Renminbi Off-Shore,,
+12,CNY Chinese Yuan,China,CHN
+13,CZK Czech Koruna,Czech Republic,CZE
+14,DKK Danish Kroner,Denmark,DNK
+15,EGP Egyptian Pound,"Egypt, Arab Rep.",EGY
+16,EUR Euro,Euro area,EMU
+17,FJD Fiji Dollar,Fiji,FJI
+18,GBP British Pound,United Kingdom,GBR
+19,HKD Hong Kong Dollar,"Hong Kong SAR, China",HKG
+20,HUF Hungarian Forint,Hungary,HUN
+21,IDR Indonesian Rupiah,Indonesia,IDN
+22,ILS Israeli New Shekel,Israel,ISR
+23,INR Indian Rupee,India,IND
+24,JPY Japanese Yen,Japan,JPN
+25,KRW Korean Won,"Korea, Rep.",KOR
+26,KWD Kuwaiti Dinar,Kuwait,KWT
+27,LKR Sri Lanka Rupee,Sri Lanka,LKA
+28,MAD Moroccan Dirham,Morocco,MAR
+29,MGA Malagasy Ariary,Madagascar,MDG
+30,MXN Mexican Peso,Mexico,MEX
+31,MYR Malaysian Ringgit,Malaysia,MYS
+32,NOK Norwegian Kroner,Norway,NOR
+33,NZD New Zealand Dollar,New Zealand,NZL
+34,OMR Omani Rial,Oman,OMN
+35,PEN Peruvian Nuevo Sol,Peru,PER
+36,PGK Papua New Guinea Kina,Papua New Guinea,PNG
+37,PHP Philippine Peso,Philippines,PHL
+38,PKR Pakistani Rupee,Pakistan,PAK
+39,PLN Polish Zloty,Poland,POL
+40,RUB Russian Rouble,Russian Federation,RUS
+41,SAR Saudi Arabian Riyal,Saudi Arabia,SAU
+42,SBD Solomon Islands Dollar,Solomon Islands,SLB
+43,SCR Seychelles Rupee,Seychelles,SYC
+44,SEK Swedish Krona,Sweden,SWE
+45,SGD Singapore Dollar,Singapore,SGP
+46,THB Thai Baht,Thailand,THA
+47,TOP Tonga Pa`anga,Tonga,TON
+48,TRY Turkish Lira,Turkey,TUR
+49,TWD New Taiwan Dollar,,
+50,TZS Tanzanian Shilling,Tanzania,TZA
+51,USD US Dollar,United States,USA
+52,VND Vietnamese Dong,Vietnam,VNM
+53,VUV Vanuatu Vatu,Vanuatu,VUT
+54,WST Samoa Tala,Samoa,WSM
+55,XOF CFA Franc (BCEAO),Central African Republic,CAF
+56,XPF Pacific Franc,East Asia & Pacific (excluding high income),EAP
+57,ZAR South African Rand,South Africa,ZAF
