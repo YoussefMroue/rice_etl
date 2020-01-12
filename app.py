@@ -20,7 +20,14 @@ app = Flask(__name__)
 def home():
 	message = (f"Possible routes:<br>"
 			f"/api/v1.0/COUNTRY/YEAR<br>"
-			f"<br>See /api/v1.0/countries for possible countries")
+			f"<br>See /api/v1.0/countries for possible countries<br>"
+			f"<br>The results will be formatted as follows:"
+			f"Country"
+			f"Year"
+			f"Birth Rate"
+			f"Food Production"
+			f"Currency"
+			f"Currency Exchange Rate")
 	return message
 
 @app.route("/api/v1.0/countries")
